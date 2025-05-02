@@ -36,3 +36,7 @@ Este proyecto consiste en construir una página web personal utilizando únicame
 
 1. Clona el repositorio o descarga los archivos.
 2. Abre `index.html` en tu navegador favorito.
+
+## Autor
+
+Desarrollado por Thomas Castillo Cortes como parte del curso básico de HTML que vimos en clase.
